@@ -213,6 +213,10 @@ h6,
     width: 15%;
 }
 
+.text-yellow{
+    color: #eaea9f
+}
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
     width: 3.5rem;
